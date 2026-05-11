@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5eb8589d-d2b4-4378-a45b-c5ad354e20fd" width="600"/>
 </p>
+
 ## ABOUT ME:
+
 Hey there! I'm Faj Shah 🚀
 
 A passionate developer from Karachi who loves turning ideas into reality through code. With 70+ repositories under my belt, I'm on a journey to master full-stack development and AI.
