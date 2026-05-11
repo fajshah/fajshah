@@ -1,5 +1,6 @@
-
-![AI Developer](https://raw.githubusercontent.com/fajshah/fajshah/main/faj_shah_ai_girl_illustration.svg)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5eb8589d-d2b4-4378-a45b-c5ad354e20fd" width="600"/>
+</p>
 ## ABOUT ME:
 Hey there! I'm Faj Shah 🚀
 
