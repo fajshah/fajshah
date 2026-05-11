@@ -1,6 +1,8 @@
+
 <p align="center">
-<img width="1000" height="300" alt="Image" src="https://github.com/user-attachments/assets/ff518fd7-72fa-456f-b745-91dedd8192fb" />
-</p>
+<img width="100%" alt="Image" src="https://github.com/user-attachments/assets/ff518fd7-72fa-456f-b745-91dedd8192fb" />
+</p> 
+
 
 ## ABOUT ME:
 
