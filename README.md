@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![Banner](./faj_shah_banner_no_girl.svg)" width="800"/>
+<img width="300" height="150" alt="Image" src="https://github.com/user-attachments/assets/ff518fd7-72fa-456f-b745-91dedd8192fb" />
 </p>
 
 ## ABOUT ME:
