@@ -1,5 +1,5 @@
-![AI Developer](./faj_shah_ai_girl_illustration.svg)
 
+![AI Developer](https://raw.githubusercontent.com/fajshah/fajshah/main/faj_shah_ai_girl_illustration.svg)
 ## ABOUT ME:
 Hey there! I'm Faj Shah 🚀
 
